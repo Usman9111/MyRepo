@@ -1,2 +1,4 @@
-Name = print("whatis your name")
+Name = input("whatis your name")
 print($"Yourname is {Name}")
+Roll_Number = input("What isyour Rollnumber")
+print($"Your roll number is {Roll_Number}")
